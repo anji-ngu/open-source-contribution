@@ -31,4 +31,14 @@ software development and open-source contribution.
 
 ## Author
 GitHub: https://github.com/anji-ngu
+## Git Commands I Have Practiced
 
+| Command | Purpose |
+|---|---|
+| git clone | Copy a repository |
+| git status | Check file changes |
+| git add | Stage changes |
+| git commit | Save changes in Git history |
+| git push | Upload commits to GitHub |
+| git branch | View branches |
+| git switch | Switch branches |
